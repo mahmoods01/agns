@@ -10,10 +10,9 @@ is provided.
 
 ## Data and models
 
-Before you can run the code, you need to download the set of eyeglass images
-that we synthesized from real textures (link: <https://goo.gl/Kr1HdV>; 
-place them under `data/eyeglasses`) and the neural networks that we 
-trained (link: <https://goo.gl/domYfN>; place them under `models/`).
+Before you can run the code, you need to download the set of eyeglass images that we synthesized from real textures (link: 
+<https://tinyurl.com/AGNsEyeglasses>; place them under `data/eyeglasses`) and the neural networks that we trained (link: 
+<https://tinyurl.com/AGNsModels>; place them under `models/`).
 
 ## Dependencies
 
